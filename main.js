@@ -7,7 +7,7 @@ window.addEventListener('scroll', function() {
         console.log("scroll")
         nav.style.top = "0"
         nav.style.marginTop = '-10px'
-        nav.style.backgroundColor = "rgb(255 255 255 / 0.3)"
+        nav.style.backgroundColor = "white"
         nav.style.backdropFilter = "blur(5px)"
 
     }
