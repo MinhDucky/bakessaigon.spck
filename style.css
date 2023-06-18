@@ -6,7 +6,7 @@
 }
 html {
   font-family: 'Kablammo', cursive;
-font-family: 'Poppins', sans-serif;
+font-family: 'Avenir Next', sans-serif;
 }
 
 /* tổng quát
@@ -55,7 +55,7 @@ size(w,h)
   position: fixed;
   top: 21px;
   right: 0;
-  background-color: rgb(255 255 255 / 0.3);
+  background-color: rgb(255, 255, 255);
   /* backdrop-filter: blur(10px); */
 
     
@@ -240,9 +240,6 @@ width: 100%;
   align-items: center;
   justify-content: center;
   white-space: pre;
-}
-.foodandword {
-
 }
 
 .foodandword p{
